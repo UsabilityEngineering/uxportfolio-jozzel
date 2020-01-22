@@ -1,5 +1,8 @@
 # UX Portfolio
-![alt text](https://github.com/UsabilityEngineering/uxportfolio-jozzel/blob/master/assets/8D4507FE-3BCE-418F-995F-3D0337C5ACB8%202.JPG)
+Jozzel Esqueda
+![alt text]()
+Computer Science Major
+UX is vital to the survival of technology. As technology progresses, people need to be able to know and understand tools to help them cope with everyday life. 
 
 ## UX Team Project
 
