@@ -1,4 +1,4 @@
-##Journal 2 - Is Tinder Worth Downloading ?
+## Journal 2 - Is Tinder Worth Downloading ?
 
 ** Jozzel Esqueda 04/12/2020 **
 
