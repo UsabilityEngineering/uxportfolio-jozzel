@@ -1,6 +1,6 @@
 ## Journal 2 - Is Tinder Worth Downloading ?
 
-** Jozzel Esqueda 04/12/2020 **
+**Jozzel Esqueda 04/12/2020**
 
 Tinder is a "dating" app where you either swipe left (for people you do not like), or right(for people you do like).
 
