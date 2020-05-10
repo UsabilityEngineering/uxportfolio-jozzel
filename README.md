@@ -10,4 +10,3 @@ UX is vital to the survival of technology. As technology progresses, people need
 ## UX Journal
 [Journal 1](journal-01/)
 [Journal 2](journal-02/)
-[Journal 3](journal-03/)
